@@ -1,0 +1,26 @@
+{
+  "name": "mosaic-mosaic-3d-every-place-tells",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.65.1",
+    "d3-geo": "^3.1.2",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-router-dom": "^7.18.5",
+    "three": "^0.187.0",
+    "topojson-client": "^3.1.0",
+    "vite": "^6.4.6",
+    "world-atlas": "^2.0.2"
+  }
+}
